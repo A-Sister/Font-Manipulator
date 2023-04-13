@@ -1,0 +1,30 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    padding:15px;
+    box-shadow: 5px 5px 10px cornsilk;
+    font-family: monospace;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+canvas{
+   border: 3px dashed rgb(119, 22, 22);
+   border-radius: 15px;
+   box-shadow: 10px 10px 15px cornsilk;
+}
+
+#footer{
+    background-color:cornsilk;
+    width:100%;
+    position: fixed;
+    bottom:0;
+    font-size:15px;
+    line-height: 4;
+    text-align: center;
+    font-family:fantasy;
+}
